@@ -1,7 +1,7 @@
 {
 	"name": "SteamGifts",
 	"identifier": "com.chickdan.steamgifts",
-	"sourceURL": "https://github.com/chickdan/SteamGifts-iOS-Release/apps.json",
+	"sourceURL": "https://github.com/chickdan/SteamGifts-iOS-Release/blob/main/apps.json",
 	"apps": [
 		{
 			"name": "SteamGifts",
