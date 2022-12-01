@@ -21,9 +21,9 @@
       "iconURL": "https://github.com/chickdan/SteamGiftsiOS-Release/raw/1.0.0/icon.png",
       "tintColor": "0f89f6",
       "screenshotURLs": [
-        "https://chickdan.gitlab.io/SteamGiftsIOS/static/feature-theme-837ff78497892f22e89b4d3a858bd231.webp",
-        "https://chickdan.gitlab.io/SteamGiftsIOS/static/feature-giveaways-09fbca79433e5ab03388af0cb1d1aa29.webp",
-        "https://chickdan.gitlab.io/SteamGiftsIOS/static/feature-giveaway_details-548a4f58ed28fe5bb4fa374e5f9180aa.webp"
+        "https://raw.githubusercontent.com/chickdan/SteamGiftsiOS-Release/main/Images/feature-theme.png",
+        "https://raw.githubusercontent.com/chickdan/SteamGiftsiOS-Release/main/Images/feature-giveaways.png",
+        "https://raw.githubusercontent.com/chickdan/SteamGiftsiOS-Release/main/Images/feature-giveaway_details.png"
       ],
       "beta": false
     }
