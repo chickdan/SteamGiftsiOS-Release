@@ -29,6 +29,13 @@
           "localizedDescription": "This release introduces the Messages tab! You can now view your messages and mark them as read.",
           "downloadURL": "https://github.com/chickdan/SteamGiftsiOS-Release/releases/download/2023.04.15/SteamGifts.ipa",
           "size": 10395529
+        },
+        {
+          "version": "2023.08.03",
+          "date": "2023-08-03",
+          "localizedDescription": "This release contains various optimizations and animation improvements.",
+          "downloadURL": "https://github.com/chickdan/SteamGiftsiOS-Release/releases/download/2023.08.03/SteamGifts.ipa",
+          "size": 10395529
         }
       ],
       "localizedDescription": "Designed for the device that fits in your palm, SteamGifts-iOS provides a sleek design to make accessing giveaways and discussions easier than ever!\n\nFeatures include:\n• Supports all categories found on the SteamGifts website\n• Swipe to enter and leave giveaways\n• Infinite style scrolling\n• Light and Dark themes",
