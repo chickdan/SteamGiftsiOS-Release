@@ -36,6 +36,13 @@
           "localizedDescription": "This release contains various optimizations and animation improvements.",
           "downloadURL": "https://github.com/chickdan/SteamGiftsiOS-Release/releases/download/2023.08.03/SteamGifts.ipa",
           "size": 10395529
+        },
+        {
+            "version": "2023.03.25",
+            "date": "2023-03-25",
+            "localizedDescription": "This release introduces the profile Tab! This is where you can manage your login as well as see profile stats.",
+            "downloadURL": "https://github.com/chickdan/SteamGiftsiOS-Release/releases/download/2024.03.25/SteamGifts.ipa",
+            "size": 11014582
         }
       ],
       "localizedDescription": "Designed for the device that fits in your palm, SteamGifts-iOS provides a sleek design to make accessing giveaways and discussions easier than ever!\n\nFeatures include:\n• Supports all categories found on the SteamGifts website\n• Swipe to enter and leave giveaways\n• Infinite style scrolling\n• Light and Dark themes",
